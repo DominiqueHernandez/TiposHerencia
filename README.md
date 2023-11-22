@@ -8,3 +8,5 @@ Especializacion:4 proyectos en total con 10 clases que hacen uso de este tipo de
 
 
 Construccion/Extencion: 10 clases probadas en una misma controladora
+
+Apple:Ejemplo extra de extends
